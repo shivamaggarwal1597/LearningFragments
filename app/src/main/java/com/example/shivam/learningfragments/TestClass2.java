@@ -5,4 +5,10 @@ package com.example.shivam.learningfragments;
  */
 
 public class TestClass2 {
+
+  public int x = 3;
+  public int  y =4;
+  public int z = 5;
+  
 }
+
